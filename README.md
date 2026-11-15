@@ -1,5 +1,5 @@
 # Analog Atlas
-**Moon Base Rocket Science — Gerald Adli (solo)**
+**Space Landing Enthusiast — Gerald Adli (solo)**
 NASA Space Apps Kansas City 2026
 
 Find Earth locations worth investigating for Moon and Mars mission rehearsals.
